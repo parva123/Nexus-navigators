@@ -35,7 +35,7 @@ const Hero = () => {
             transition={{ duration: 0.5 }}
             className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-primary/10 text-primary mb-6"
           >
-            Powered by Advanced AI
+            
           </motion.div>
 
           {/* Headline */}
