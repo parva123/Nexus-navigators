@@ -38,7 +38,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-4xl md:text-5xl lg:text-6xl font-playfair font-semibold leading-tight md:leading-tight tracking-tight mb-6"
           >
-            Elevate Your Research with{'   '}
+            Elevate Your Research with{' '}
             <span className="text-primary">AI-Powered</span> Intelligence
           </motion.h1>
 
