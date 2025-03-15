@@ -63,8 +63,8 @@ const Footer = () => {
               to="/" 
               className="inline-flex items-center space-x-2 font-serif text-xl font-semibold mb-4"
             >
-              <span className="text-primary">Research</span>
-              <span>Owl</span>
+              <span className="text-primary">Nexus</span>
+              <span>AI</span>
             </Link>
             <p className="text-sm text-gray-600 dark:text-gray-400 mt-4 mb-6">
               An AI-powered research platform helping students and researchers streamline academic publishing with integrity.
@@ -108,7 +108,7 @@ const Footer = () => {
         {/* Bottom section */}
         <div className="border-t border-gray-200 dark:border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            © {currentYear} ResearchOwl. All rights reserved.
+            © {currentYear} NexusAI. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex flex-wrap gap-4 text-sm text-gray-600 dark:text-gray-400">
             <Link to="/terms" className="hover:text-primary transition-colors">Terms</Link>
