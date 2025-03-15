@@ -22,7 +22,7 @@ const Hero = () => {
     <section className="relative pt-24 md:pt-32 pb-16 md:pb-24 overflow-hidden">
       {/* Background elements */}
       <div className="absolute inset-0 -z-10 overflow-hidden">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[1000px] rounded-full bg-primary/5 blur-3xl" />
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1300px] h-[1300px] rounded-full bg-primary/5 blur-3xl" />
         <div className="absolute bottom-0 right-0 w-[800px] h-[800px] rounded-full bg-purple-500/10 blur-3xl" />
       </div>
 
