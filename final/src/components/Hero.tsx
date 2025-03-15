@@ -23,7 +23,7 @@ const Hero = () => {
       {/* Background elements */}
       <div className="absolute inset-0 -z-10 overflow-hidden">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[1000px] rounded-full bg-primary/5 blur-3xl" />
-        <div className="absolute bottom-0 right-0 w-[500px] h-[500px] rounded-full bg-purple-500/5 blur-3xl" />
+        <div className="absolute bottom-0 right-0 w-[800px] h-[800px] rounded-full bg-purple-500/10 blur-3xl" />
       </div>
 
       <div className="container mx-auto px-4 md:px-6">
