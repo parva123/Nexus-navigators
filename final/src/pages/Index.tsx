@@ -51,7 +51,7 @@ const Index = () => {
                 transition={{ duration: 0.5 }}
                 className="text-3xl md:text-4xl font-serif font-semibold mb-6"
               >
-                How ResearchOwl Works
+                How NexusAI Works
               </motion.h2>
               <motion.p 
                 initial={{ opacity: 0, y: 20 }}
@@ -211,7 +211,7 @@ const Index = () => {
                 Ready to Transform Your Research Process?
               </h2>
               <p className="text-xl text-gray-600 dark:text-gray-400 mb-8 md:mb-10">
-                Join thousands of researchers worldwide who are using ResearchOwl to enhance their academic work.
+                Join thousands of researchers worldwide who are using NexusAI to enhance their academic work.
               </p>
               <div className="flex flex-col sm:flex-row justify-center gap-4">
                 <Button size="lg" className="rounded-xl px-6">
