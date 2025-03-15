@@ -6,7 +6,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 const Testimonials = () => {
   const testimonials = [
     {
-      quote: "NexusAI helped me identify a critical research gap that became the foundation of my dissertation. The AI literature search saved me weeks of manual review.",
+      quote: "Nexus AI helped me identify a critical research gap that became the foundation of my dissertation. The AI literature search saved me weeks of manual review.",
       author: "Dr. Sarah Chen",
       role: "Neuroscience Researcher",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
